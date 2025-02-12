@@ -1,6 +1,6 @@
-# TCP/IP Stack (Top Down Approach)
+# TCP/IP Stack
 
-file:///home/admin/Desktop/Tcpip.gif
+![1_G6lQ90SrFLHiT0GIlr1qtA](https://github.com/user-attachments/assets/038d558e-6733-4af4-95a2-cefa7586ccef)
 
 ## Application
 
@@ -20,7 +20,7 @@ https://ebyteiot.com/blogs/ebyte-iot-blog/basic-communication-protocol-stack-det
 
 ### Image
 
-https://www.trccompsci.online/mediawiki/index.php/TCP/IP
+https://levelup.gitconnected.com/tcp-model-33f2a0c62708
 
 
 
