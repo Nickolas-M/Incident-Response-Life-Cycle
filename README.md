@@ -1,6 +1,6 @@
 # TCP/IP Stack (Top Down Approach)
 
-![Grey Scrapbook Photo Collage Friends Instagram Story (1)-Photoroom](https://github.com/user-attachments/assets/2a0434f8-4acf-4eee-a0be-2b73a2f7ee37)
+file:///home/admin/Desktop/Tcpip.gif
 
 ## Application
 
@@ -15,6 +15,12 @@
 ## Resources
 
 https://levelup.gitconnected.com/tcp-model-33f2a0c62708
+
+https://ebyteiot.com/blogs/ebyte-iot-blog/basic-communication-protocol-stack-detailed-explanation-of-tcp-protocol-and-ip-protocol
+
+### Image
+
+https://www.trccompsci.online/mediawiki/index.php/TCP/IP
 
 
 
