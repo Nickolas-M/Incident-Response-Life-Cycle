@@ -1,7 +1,6 @@
 # Incident Response Life Cycle
 
-
-![Incident Response Lifecycle](https://github.com/user-attachments/assets/072d5728-b139-4621-8df9-6446bb8d4ae3)
+![Incident Response Lifecycle](https://github.com/user-attachments/assets/c3d11dd3-bd27-404c-ba0a-e3d23540bc9a)
 
 ## Preparation
 
