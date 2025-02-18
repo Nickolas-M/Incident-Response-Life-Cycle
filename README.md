@@ -1,5 +1,5 @@
 # Incident Response Life Cycle
-The Incident Response Life Cycle is a four phase process which promotes continual improvement within an organization to better defend and handle cyber attacks. A constant feedback loop that allows defenders to reflect on previous cyber attacks and understand what went wrong, what they did well, and how to better improve their response plan and security infastructure.
+The Incident Response Life Cycle is a four-phase process that promotes continual improvement within an organization to better defend against and handle cyber attacks. It creates a constant feedback loop, allowing defenders to reflect on previous cyber attacks, understand what went wrong, what they did well, and how to better improve their response plan and security infrastructure.
 
 ![Incident Response Lifecycle](https://github.com/user-attachments/assets/c3d11dd3-bd27-404c-ba0a-e3d23540bc9a)
 
